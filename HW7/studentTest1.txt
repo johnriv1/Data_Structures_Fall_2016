@@ -1,0 +1,8 @@
+a ballerina 1
+a pirate 4
+a Popeye 1
+a transformer 2
+r John Rivera pirate
+r John Rivera pirate
+r John Rivera Popeye
+r Sharon Jackson Popeye
