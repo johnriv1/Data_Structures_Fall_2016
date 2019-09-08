@@ -1,0 +1,24 @@
+1 Polygon(s):  
+1 Triangle(s):  
+0 IsoscelesTriangle(s): 
+0 RightTriangle(s): 
+0 IsoscelesRightTriangle(s): 
+0 ObtuseTriangle(s): 
+0 IsoscelesObtuseTriangle(s): 
+0 EquilateralTriangle(s): 
+0 Quadrilateral(s): 
+0 Trapezoid(s): 
+0 Kite(s): 
+0 Arrow(s): 
+0 Parallelogram(s): 
+0 IsoscelesTrapezoid(s): 
+0 Rhombus(s): 
+0 Rectangle(s): 
+0 Square(s): 
+0 Shape(s) with all equal sides: 
+0 Shape(s) with all equal angles: 
+0 Shape(s) with a right angle: 
+0 Shape(s) with an obtuse angle: 
+1 Shape(s) with an acute angle:  
+1 Convex Shape(s):  
+0 Concave Shape(s): 
